@@ -1,0 +1,17 @@
+body {
+    background: url("rainforest.jpg") no-repeat center fixed;
+    background-size: cover; 
+    color: white;
+}
+
+#media {
+    color:white; 
+}
+
+#content {
+    color: white;
+}
+
+#Contact {
+    color: white;
+}
